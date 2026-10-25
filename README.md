@@ -1,25 +1,30 @@
 # YHS-Sec
 
-**웹을 공격자의 시선으로 읽고, 개발자의 손으로 더 단단하게 만듭니다.**
+RubiyaLab에서 웹 해킹을 공부하고 있습니다. 웹 서비스도 직접 만들고 운영합니다.
 
-안녕하세요. RubiyaLab에서 웹 해킹을 공부하고, 직접 만든 서비스에 그 관점을 적용합니다. 인증과 권한, 파일 업로드, 거래처럼 작은 실수가 큰 문제로 이어질 수 있는 흐름에 관심이 많습니다.
+## 프로젝트
 
----
+### [Joinyard](https://joinyard.app/ko-KR)
 
-### 만드는 것
+Root 커뮤니티를 찾고 소개하는 사이트입니다. 현재 공개 베타로 운영하고 있습니다.
+웹사이트와 Root 봇·앱에서 커뮤니티를 Bump할 수 있습니다.
 
-| 프로젝트 | 이야기 |
-| :-- | :-- |
-| **[Joinyard](https://joinyard.app/ko-KR)** | Root 커뮤니티를 찾고 소개하는 서비스. 공개 베타 운영 중이며, 웹사이트·봇·Root App에서 Bump를 지원합니다. [프로젝트 소개](https://github.com/YHS-Sec/joinyard-showcase) · [YouTube 소개 영상](https://youtu.be/2_Y7J0VRyHc) |
-| **[다시,마켓](https://github.com/YHS-Sec/dasi-market)** | 채팅과 송금까지 이어지는 중고거래 서비스. CSRF, 권한 검사, 이미지 검증, 중복 송금 방지를 구현했습니다. |
-| **[Korean Vulhub](https://github.com/YHS-Sec/kr-vulhub)** | 컨테이너 기반 취약점 실습 환경을 다루는 [원본 프로젝트](https://github.com/gunh0/kr-vulhub)의 포크입니다. |
+[프로젝트 소개](https://github.com/YHS-Sec/joinyard-showcase) · [25초 소개 영상](https://youtu.be/2_Y7J0VRyHc)
 
-### 관심 있는 문제
+### [다시,마켓](https://github.com/YHS-Sec/dasi-market)
 
-웹 취약점 분석 · 안전한 백엔드 설계 · 재현 가능한 테스트 · 쓰기 편한 인터페이스
+채팅과 송금 기능이 있는 중고거래 서비스입니다.
+CSRF 방어, 권한 검사, 이미지 검증, 중복 송금 방지를 구현했습니다.
 
-주로 **Python / Flask / JavaScript / Docker**를 사용하고, **pytest / Playwright**로 동작을 확인합니다.
+### [Korean Vulhub](https://github.com/YHS-Sec/kr-vulhub)
 
-### 연락
+Docker로 취약점 실습 환경을 구성하는 [프로젝트](https://github.com/gunh0/kr-vulhub)의 포크입니다.
+
+## 사용하는 도구
+
+Python, Flask, JavaScript, Docker를 주로 씁니다.
+테스트에는 pytest와 Playwright를 사용합니다.
+
+## 연락
 
 [RubiyaLab](https://rubiyalab.team/) · [Email](mailto:contact@v1sion.xyz)
