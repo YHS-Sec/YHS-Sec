@@ -10,7 +10,7 @@
 
 | 프로젝트 | 이야기 |
 | :-- | :-- |
-| **[Joinyard](https://github.com/YHS-Sec/joinyard-showcase)** | Root 커뮤니티를 위한 독립 디렉터리. 현재 개발 중입니다. [25초 소개 영상](https://github.com/YHS-Sec/joinyard-showcase/raw/refs/heads/main/media/joinyard-promo.mp4) |
+| **[Joinyard](https://joinyard.app/ko-KR)** | Root 커뮤니티를 찾고 소개하는 서비스. 공개 베타 운영 중이며, 웹사이트·봇·Root App에서 Bump를 지원합니다. [프로젝트 소개](https://github.com/YHS-Sec/joinyard-showcase) · [YouTube 소개 영상](https://youtu.be/2_Y7J0VRyHc) |
 | **[다시,마켓](https://github.com/YHS-Sec/dasi-market)** | 채팅과 송금까지 이어지는 중고거래 서비스. CSRF, 권한 검사, 이미지 검증, 중복 송금 방지를 구현했습니다. |
 | **[Korean Vulhub](https://github.com/YHS-Sec/kr-vulhub)** | 컨테이너 기반 취약점 실습 환경을 다루는 [원본 프로젝트](https://github.com/gunh0/kr-vulhub)의 포크입니다. |
 
